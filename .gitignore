@@ -1,0 +1,21 @@
+**/target/
+/target/
+*/target/*
+**/out/
+/out/
+out/
+*/out/*
+.classpath
+.project
+.settings
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.class
+
+*.iml
+*.idea
+
+/.gitignore
